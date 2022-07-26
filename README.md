@@ -19,7 +19,7 @@ Once you have solved each of the course’s problem sets, it’s time to impleme
 
 ### **Video Demo**:
 
-<https://youtu.be/142LD38WC0E>
+<https://youtu.be/yOuZJMAFPTs>
 
 ### **Installation:**
 
